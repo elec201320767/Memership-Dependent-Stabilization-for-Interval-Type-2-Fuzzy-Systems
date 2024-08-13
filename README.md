@@ -26,9 +26,13 @@ Here are the brief descriptions:
              tools for experiment
 
 [Requirement]
+
 The convex programming CVX should be set in your MATLAB
+
 CVX can be installed from https://cvxr.com/cvx/doc/install.html
 
 [Environment]
+
 MATLAB R2020b 
+
 CVX MATLAB
