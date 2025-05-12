@@ -36,3 +36,7 @@ CVX can be installed from https://cvxr.com/cvx/doc/install.html
 MATLAB R2020b 
 
 CVX MATLAB
+
+[Paper]
+
+Kim, KyungSoo, and PooGyeon Park. "H∞ control for interval type-2 Takagi–Sugeno fuzzy systems via the membership-quadratic framework." Information Sciences 701 (2025): 121839.
